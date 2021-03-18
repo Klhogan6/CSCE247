@@ -1,4 +1,4 @@
-# CSCE 247 - Software Engineering
+# CSCE 247 - Software Engineering (Fall 2020)
 # Design Patterns
 1. Adapter Design Pattern
 2. Command Design Pattern
