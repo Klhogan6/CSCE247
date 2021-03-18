@@ -1,1 +1,1 @@
-# CSCE247
+# CSCE 247 - Software Engineering
